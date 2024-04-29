@@ -1,0 +1,7 @@
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\bin\Debug\01 Kalkulator C#.exe.config
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\bin\Debug\01 Kalkulator C#.exe
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\bin\Debug\01 Kalkulator C#.pdb
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\obj\Debug\01 Kalkulator C#.csproj.AssemblyReference.cache
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\obj\Debug\01 Kalkulator C#.csproj.CoreCompileInputs.cache
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\obj\Debug\01 Kalkulator C#.exe
+C:\Users\Aldalion\Desktop\WSB\Semestr 2\Programowanie obiektowe- projekt\Kalkulator\01 Kalkulator C#\obj\Debug\01 Kalkulator C#.pdb
